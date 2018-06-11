@@ -3,7 +3,7 @@ Mobilenet SSD based pedestrian detection.
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/7mBVmek8gLU/0.jpg)](http://www.youtube.com/watch?v=7mBVmek8gLU)
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/K6Dtl1mI-5c/0.jpg)](http://www.youtube.com/watch?v=K6Dtl1mI-5c)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/JiF8NGWE1fU/0.jpg)](http://www.youtube.com/watch?v=JiF8NGWE1fU)
 
 # Training information
 * Dataset: Caltech Pedestrian dataset
